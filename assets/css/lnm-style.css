@@ -1,0 +1,12 @@
+.marquee-label{
+    color: #E31723;
+    font-weight: bold;
+    float: left;
+    overflow: hidden;
+}
+
+.latest-news li{
+    color: #95C1DE;
+    list-style: none;
+    margin: 0 10px 0 10px;
+}
