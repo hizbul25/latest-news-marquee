@@ -1,6 +1,6 @@
 === Latest News Marquee ===
-Contributors: (hizbul25)
-Donate link:
+Contributors: (hizbul)
+Donate link: http://hizbul.com
 Tags: Latest News, Marquee, News Ticker, prothom-alo, dailystar
 Requires at least: 3.0.1
 Tested up to: 4.1.1
@@ -37,10 +37,9 @@ Shortcodes
 == Frequently Asked Questions ==
 
 = How do I install this plugin? =
-
 You can install as others regular wordpress plugin. No different way. Please see on installation tab.
 
-=What does the mean of id in shortcode =
+= What does the mean of id in shortcode =
 id mean news paper id, in here Daily Prhothom Alo mean id = 1 and Daily Star mean id = 2
 
 = How to change news and label color =
@@ -48,14 +47,13 @@ From plugin settings option you can change both of this.
 
 == Screenshots ==
 
-lnm-01.png show the plugin setting menu
-lnm-03.png describe, how to customise look of latest news marquee and add label for latest news.
-lnm-04.png show, how to write shortcode
-lnm-05.png show the result of shortcode in blog/website.
+1. lnm-01.png show the plugin setting menu
+2. lnm-03.png describe, how to customise look of latest news marquee and add label for latest news.
+3. lnm-04.png show, how to write shortcode
+4. lnm-05.png show the result of shortcode in blog/website.
 
+== Upgrade Notice ==
 
 == Changelog ==
 
 = 1.0 =
-
-
