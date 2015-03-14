@@ -61,12 +61,13 @@ class LNM_Front {
     }
 
     private function dailystar($dom) {
-        foreach($dom->find('li.news-item') as $id => $marquee) {
-            $this->latest_news[$id] = $marquee->find('a', 0)->plaintext;
+        foreach($dom->find('ul.list-border li') as $id => $marquee) {
+            $this->latest_news[$id] = $marquee->plaintext;
             if($id >= 4) {
                 break;
             }
         }
+
         return $this->latest_news;
     }
 }

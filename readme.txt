@@ -22,7 +22,7 @@ Installation is very easy like other wordpress plugin
 e.g.
 
 1. Upload `Latest News Marquee` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use shortcode in page, post or in widgets.
 4. If you want `Latest News Marquee` in your theme php, Place `<?php echo do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
 
@@ -57,3 +57,7 @@ From plugin settings option you can change both of this.
 == Changelog ==
 
 = 1.0 =
+First release
+
+= 1.1 = 
+Fix latest news Daily star
